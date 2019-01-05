@@ -1,5 +1,3 @@
-Java
-
 private static void copyFileUsingChannel(File source, File dest) throws IOException {
     FileChannel sourceChannel = null;
     FileChannel destChannel = null;
